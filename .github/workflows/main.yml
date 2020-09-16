@@ -31,5 +31,5 @@ jobs:
           # Provide the name of a resource group.
           resourceGroupName: 'AzureChallengeGitHubActionsRG'
           # Specify the path or URL to the Azure Resource Manager template.
-          template: ./azuredeploy.json
+          template: ./template.json
          
